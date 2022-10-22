@@ -1,13 +1,5 @@
-import Todo from "./components/Todo";
 function App() {
-  return (
-    <div>
-      <h1>My Todos</h1>
-      <Todo text="Learn React" />
-      <Todo text="React Course" />
-      <Todo text="Crash Course React" />
-    </div>
-  );
+  return (<div>Hello!</div>);
 }
 
 export default App;
